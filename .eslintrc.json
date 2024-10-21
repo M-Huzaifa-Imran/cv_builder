@@ -1,9 +1,5 @@
-<<<<<<< Tabnine <<<<<<<
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
-}
->>>>>>> Tabnine >>>>>>>// {"conversationId":"b8c683bc-732c-4653-bccb-6f55dabb2245","source":"instruct"}
-{
+  
   "extends": "next",
   "rules": {
     "react/no-unescaped-entities": "off",
