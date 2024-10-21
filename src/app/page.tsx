@@ -1,10 +1,9 @@
 
-      import CVBuilder from "./cvbuilder"; // Assuming CVBuilder is defined in a separate file//+
-
+      import CVBuilder from "./cvbuilder"; 
       export default function Home() {
         return (
-          <div>//+
-            <CVBuilder/>//+
+          <div>
+            <CVBuilder/>
           </div>
         )
       }
